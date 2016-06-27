@@ -1,6 +1,9 @@
 ---
 layout: post
-title:  "Github Pages 에 올리는 첫 글"
+title:  "Python Better Resources"
 ---
-# title h1
-## sub title h2
+# for beginners
+## byte
+### https://www.fullstackpython.com/best-python-resources.html
+# for intermediate
+# for pros
