@@ -8,7 +8,8 @@ title:  "Python Better Resources"
 
 * [Best Python Resources](https://www.fullstackpython.com/best-python-resources.html)
 
-* How to think like a python programmer
+* Think python
+{tab} How to think like a python programmer
 * 
 ## for intermediate
 
